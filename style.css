@@ -10,4 +10,5 @@ p {
 .heading {
     text-align: center;
     font-size: 20pt;
+    text-shadow: 2px 2px white;
 }
